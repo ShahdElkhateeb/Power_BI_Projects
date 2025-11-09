@@ -1,0 +1,37 @@
+resource_id,class_id,resource_type,quantity_available,condition
+R1,C101,Lab Equipment,1,Poor
+R2,C101,Books,16,Needs Maintenance
+R3,C101,Laptops,4,Poor
+R4,C102,Desks,17,Needs Maintenance
+R5,C102,Laptops,19,Needs Maintenance
+R6,C102,Whiteboard,25,Good
+R7,C103,Projector,13,Poor
+R8,C103,Laptops,5,Good
+R9,C103,Desks,19,Needs Maintenance
+R10,C104,Whiteboard,1,Good
+R11,C104,Projector,16,Good
+R12,C104,Books,1,Good
+R13,C105,Desks,20,Needs Maintenance
+R14,C105,Whiteboard,13,Good
+R15,C105,Lab Equipment,2,Good
+R16,C106,Lab Equipment,3,Good
+R17,C106,Whiteboard,22,Good
+R18,C106,Laptops,20,Needs Maintenance
+R19,C107,Books,13,Poor
+R20,C107,Desks,2,Poor
+R21,C107,Whiteboard,21,Needs Maintenance
+R22,C108,Books,24,Needs Maintenance
+R23,C108,Projector,2,Needs Maintenance
+R24,C108,Desks,14,Good
+R25,C109,Desks,19,Needs Maintenance
+R26,C109,Whiteboard,21,Needs Maintenance
+R27,C109,Laptops,21,Good
+R28,C110,Books,21,Needs Maintenance
+R29,C110,Projector,9,Good
+R30,C110,Laptops,16,Needs Maintenance
+R31,C111,Lab Equipment,13,Good
+R32,C111,Whiteboard,2,Poor
+R33,C111,Projector,15,Good
+R34,C112,Desks,22,Good
+R35,C112,Lab Equipment,20,Good
+R36,C112,Whiteboard,12,Good

@@ -1,0 +1,611 @@
+student_id,first_name,last_name,age,gender,grade_level,class_id,attendance_percent,online_classes_taken,extra_curricular,previous_grade,final_grade,performance_level
+S3001,Jessica,Wright,18,Female,Grade 12,C111,65.7,TRUEE,Art Club,83.6,57.5,Needs Improvement
+S3002,Joseph,Anderson,18,Female,Grade 9,C111,81.0,1,Sports,72.6,57.1,Needs Improvement
+S3003,Elizabeth,Allen,15,Female,Grade 9,C102,78.0,N,Debate,55.6,97.4,Excellent
+S3004,Joshua,Clark,18,Female,Grade 9,C111,61.4,True,None,95.0,66.6,Average
+S3005,Kenneth,Scott,16,Female,Grade 9,C101,78.0,Y,Debate,72.4,96.7,Excellent
+S3006,David,Clark,14,Female,Grade 10,C103,71.2,True,None,78.9,61.3,Average
+S3007,Karen,Nguyen,18,Male,Grade 10,C106,89.2,Y,Music,88.9,58.3,Needs Improvement
+S3008,Kenneth,Scott,18,Male,Grade 11,C106,86.8,N,Sports,84.3,81.6,Good
+S3009,Linda,Green,16,Female,Grade 10,C107,69.4,True,Music,66.3,56.8,Needs Improvement
+S3010,George,Brown,14,Female,Grade 9,C106,84.2,False,Music,78.8,64.1,Average
+S3011,Donald,Lee,15,Female,Grade 12,C108,94.9,False,Robotics,90.4,63.4,Average
+S3012,Richard,King,16,Female,Grade 11,C104,60.0,N,Robotics,70.5,68.7,Average
+S3013,Mark,Taylor,15,Male,Grade 9,C112,72.9,Y,Sports,77.8,86.6,Good
+S3014,Donna,Lee,15,Male,Grade 9,C107,99.9,True,None,66.7,98.9,Excellent
+S3015,Patricia,White,14,Male,Grade 11,C109,79.6,True,Robotics,98.4,65.9,Average
+S3016,Jessica,Harris,17,Male,Grade 10,C109,81.4,N,Music,59.0,92.6,Excellent
+S3017,Donald,Torres,17,Male,Grade 9,C105,92.4,True,None,70.3,59.3,Needs Improvement
+S3018,Dorothy,Garcia,17,Female,Grade 12,C106,,True,None,93.6,66.6,Average
+S3019,Michael,Johnson,17,Female,Grade 9,C105,82.3,False,Music,93.8,63.5,Average
+S3020,Richard,Lee,17,Male,Grade 12,C105,,False,Art Club,84.4,81.1,Good
+S3021,Sandra,White,14,Female,Grade 9,C101,99.8,True,None,62.7,55.8,Needs Improvement
+S3022,Kenneth,Nguyen,14,Male,Grade 10,C102,85.5,False,Debate,66.0,81.5,Good
+S3023,Ashley,Rodriguez,15,Female,Grade 9,C107,86.8,False,Debate,93.0,65.4,Average
+S3024,James,Martinez,16,Female,Grade 11,C110,96.6,N,None,71.3,55.7,Needs Improvement
+S3025,Emily,Young,17,Male,Grade 10,C102,72.7,Y,Music,62.5,80.1,Good
+S3026,Patricia,Walker,18,Male,Grade 11,C101,95.1,True,Sports,87.6,86.4,Good
+S3027,Donna,Rodriguez,18,Male,Grade 9,C109,80.5,True,Music,77.1,90.9,Excellent
+S3028,John,Hall,14,Male,Grade 12,C105,61.4,True,Robotics,75.5,79.4,Good
+S3029,Jessica,Walker,18,Male,Grade 9,C109,,N,None,66.9,98.4,Excellent
+S3030,Donna,Walker,18,Female,Grade 11,C108,80.7,False,None,69.2,90.8,Excellent
+S3031,Christopher,White,16,Female,Grade 10,C108,66.9,Y,Debate,61.9,66.3,Average
+S3032,Christopher,Green,14,Male,Grade 12,C110,82.6,True,Sports,62.0,60.4,Average
+S3033,Kenneth,Jackson,18,Female,Grade 10,C108,73.9,Y,Sports,75.4,84.2,Good
+S3034,Jessica,Garcia,16,Male,Grade 12,C101,,Y,Robotics,78.7,85.8,Good
+S3035,Kimberly,Smith,18,Female,Grade 9,C109,65.1,False,Art Club,90.7,91.9,Excellent
+S3036,Linda,Flores,14,Male,Grade 11,C106,64.0,Y,Robotics,55.8,59.2,Needs Improvement
+S3037,Susan,King,16,Male,Grade 11,C112,71.3,N,Art Club,60.2,86.4,Good
+S3038,Patricia,Brown,17,Female,Grade 9,C107,82.7,True,Art Club,80.3,87.9,Good
+S3039,William,Allen,16,Male,Grade 12,C111,90.0,N,Robotics,88.2,59.6,Needs Improvement
+S3040,James,Taylor,14,Male,Grade 9,C102,93.9,Y,Robotics,70.6,98.1,Excellent
+S3041,Emily,Anderson,17,Male,Grade 9,C102,90.1,Y,Art Club,89.8,90.5,Excellent
+S3042,Robert,Flores,16,Male,Grade 10,C108,74.0,True,Art Club,60.2,61.4,Average
+S3043,Emily,Flores,17,Male,Grade 10,C103,88.2,False,Music,58.6,58.8,Needs Improvement
+S3044,Paul,Smith,15,Female,Grade 12,C109,63.3,False,Art Club,89.2,80.1,Good
+S3045,David,Torres,14,Female,Grade 9,C104,82.9,N,Music,87.6,89.5,Good
+S3046,Richard,Nguyen,17,Female,Grade 11,C102,94.7,False,Music,64.8,98.3,Excellent
+S3047,Mary,Young,15,Female,Grade 11,C101,63.0,Y,Sports,62.3,64.8,Average
+S3048,Sarah,Garcia,18,Female,Grade 11,C109,62.3,True,Sports,72.4,59.8,Needs Improvement
+S3049,Thomas,Thomas,18,Female,Grade 9,C112,70.4,True,Robotics,74.9,56.5,Needs Improvement
+S3050,Dorothy,Garcia,16,Female,Grade 9,C107,97.6,N,Robotics,73.3,81.2,Good
+S3051,Richard,Harris,14,Female,Grade 9,C104,75.1,False,Art Club,90.7,99.4,Excellent
+S3052,Dorothy,Brown,16,Female,Grade 9,C108,61.5,Y,Robotics,60.9,55.6,Needs Improvement
+S3053,Karen,Young,17,Female,Grade 12,C102,89.0,Y,Robotics,88.3,72.0,Average
+S3054,William,Jackson,17,Female,Grade 10,C106,70.7,Y,Debate,56.0,77.4,Good
+S3055,Emily,Nguyen,14,Female,Grade 11,C105,,False,Debate,81.0,76.6,Good
+S3056,Donna,Hall,16,Female,Grade 12,C101,83.6,N,None,72.3,74.7,Average
+S3057,Susan,Lewis,17,Male,Grade 9,C105,91.9,Y,Robotics,75.2,92.9,Excellent
+S3058,Michelle,Thompson,14,Male,Grade 11,C103,83.2,False,Music,70.0,,Good
+S3059,Elizabeth,Smith,14,Male,Grade 12,C102,86.7,True,Debate,62.6,63.7,Average
+S3060,Paul,Flores,18,Male,Grade 12,C108,78.4,N,Debate,64.1,71.4,Average
+S3061,Jessica,Anderson,14,Male,Grade 12,C102,71.1,False,Music,90.5,88.7,Good
+S3062,Kimberly,Clark,14,Male,Grade 9,C101,65.3,N,Music,85.2,93.0,Excellent
+S3063,Sandra,Young,18,Female,Grade 12,C107,72.9,N,Robotics,64.3,69.7,Average
+S3064,Mark,Flores,15,Female,Grade 12,C105,63.5,Y,Music,78.6,81.4,Good
+S3065,Sarah,Scott,18,Female,Grade 10,C109,74.2,Y,Debate,98.4,82.3,Good
+S3066,John,King,16,Male,Grade 11,C112,66.9,Y,Art Club,94.5,58.6,Needs Improvement
+S3067,Kenneth,Brown,15,Male,Grade 10,C101,60.2,N,None,97.9,77.1,Good
+S3068,Elizabeth,King,15,Male,Grade 12,C105,98.7,N,Art Club,86.3,64.0,Average
+S3069,Kenneth,Clark,17,Male,Grade 10,C102,62.1,N,Debate,69.8,61.0,Average
+S3070,Donna,King,14,Female,Grade 12,C109,83.8,True,Art Club,75.7,73.5,Average
+S3071,Karen,Scott,17,Female,Grade 10,C109,97.1,N,Music,86.8,57.2,Needs Improvement
+S3072,Sarah,Robinson,17,Male,Grade 12,C102,69.4,Y,None,82.9,95.9,Excellent
+S3073,Betty,Wright,15,Female,Grade 10,C105,89.9,True,Debate,77.1,65.4,Average
+S3074,Donna,Walker,14,Male,Grade 12,C112,87.7,False,Debate,62.3,94.5,Excellent
+S3075,Barbara,Johnson,16,Female,Grade 11,C102,89.8,False,Debate,56.5,80.6,Good
+S3076,Christopher,Thompson,17,Female,Grade 12,C102,81.6,Y,Sports,76.4,73.4,Average
+S3077,Donald,Smith,18,Male,Grade 11,C107,67.3,False,None,95.0,81.3,Good
+S3078,John,Scott,14,Male,Grade 10,C105,64.1,False,Sports,95.4,90.6,Excellent
+S3079,Michelle,Anderson,15,Male,Grade 12,C111,64.2,True,Robotics,92.0,96.0,Excellent
+S3080,Susan,Clark,16,Female,Grade 10,C109,69.1,True,Music,81.7,72.1,Average
+S3081,Karen,Taylor,18,Male,Grade 11,C107,81.5,N,Debate,95.5,70.6,Average
+S3082,Richard,Brown,18,Male,Grade 9,C109,67.1,Y,None,76.9,73.9,Average
+S3083,Joshua,Torres,14,Male,Grade 11,C109,98.4,N,None,61.5,73.7,Average
+S3084,Lisa,Brown,18,Female,Grade 9,C111,68.2,N,Debate,63.4,56.6,Needs Improvement
+S3085,Michael,Robinson,16,Female,Grade 10,C107,79.9,N,Music,88.7,59.6,Needs Improvement
+S3086,Kimberly,Allen,16,Female,Grade 12,C101,92.0,N,None,98.1,92.8,Excellent
+S3087,Donna,Harris,sixteen,Male,Grade 9,C106,92.0,Y,Debate,62.9,84.4,Good
+S3088,Jessica,Scott,17,Female,Grade 11,C107,68.2,True,Debate,67.9,95.3,Excellent
+S3089,Christopher,Thomas,17,Male,Grade 11,C104,88.2,Y,Art Club,95.1,83.1,Good
+S3090,Sarah,Flores,18,Female,Grade 9,C109,91.0,False,Sports,71.0,93.7,Excellent
+S3091,Jessica,Wright,17,Female,Grade 10,C107,67.3,N,None,76.3,78.1,Good
+S3092,Ashley,Clark,14,Male,Grade 11,C111,96.0,False,Debate,85.4,85.7,Good
+S3093,Jessica,Martin,18,Female,Grade 12,C103,93.2,Y,Debate,64.1,55.5,Needs Improvement
+S3094,Emily,Thompson,16,Female,Grade 11,C107,82.9,Y,Art Club,91.9,73.2,Average
+S3095,Joseph,Taylor,15,Female,Grade 9,C112,93.5,False,Music,74.2,96.2,Excellent
+S3096,Susan,Wright,17,Female,Grade 11,C109,61.2,True,Music,66.5,81.8,Good
+S3097,Charles,White,16,Male,Grade 11,C107,79.8,True,None,85.3,74.6,Average
+S3098,Kenneth,Anderson,16,Male,Grade 9,C101,64.1,Y,None,68.8,91.3,Excellent
+S3099,William,Allen,17,Male,Grade 9,C102,90.4,Y,Debate,86.9,83.7,Good
+S3100,Donald,Clark,16,Male,Grade 9,C106,61.6,Y,Debate,86.0,96.6,Excellent
+S3101,Linda,Nguyen,14,Female,Grade 12,C108,97.0,True,Robotics,97.7,97.5,Excellent
+S3102,Patricia,Anderson,15,Female,Grade 9,C105,69.2,False,Sports,60.3,58.5,Needs Improvement
+S3103,Emily,Scott,17,Male,Grade 12,C103,89.5,N,Debate,77.9,74.2,Average
+S3104,Karen,Hill,18,Female,Grade 11,C110,75.4,True,Robotics,96.0,58.2,Needs Improvement
+S3105,Michael,Scott,15,Male,Grade 11,C107,76.9,True,Music,87.5,65.7,Average
+S3106,Jessica,Thomas,18,Male,Grade 10,C111,99.5,True,Debate,73.8,72.3,Average
+S3107,Mark,King,18,Female,Grade 11,C101,95.4,True,Music,81.4,95.7,Excellent
+S3108,Charles,King,16,Female,Grade 9,C106,93.2,False,Art Club,60.3,57.1,Needs Improvement
+S3109,Donna,Young,15,Female,Grade 9,C107,68.7,False,None,77.8,81.9,Good
+S3110,Elizabeth,Green,16,Male,Grade 9,C105,78.5,True,Music,82.4,88.7,Good
+S3111,Karen,Hall,18,Female,Grade 12,C108,61.8,True,Debate,92.5,56.6,Needs Improvement
+S3112,Karen,King,17,Female,Grade 12,C107,63.2,N,Sports,64.7,85.7,Good
+S3113,Joshua,Johnson,17,Female,Grade 11,C111,86.5,True,Sports,78.9,93.9,Excellent
+S3114,Joseph,Young,18,Male,Grade 11,C102,93.5,True,Music,85.7,,Good
+S3115,Donald,Lewis,17,Female,Grade 10,C112,60.2,N,None,91.1,65.3,Average
+S3116,Ashley,Brown,17,Female,Grade 12,C101,,Y,Art Club,69.4,80.2,Good
+S3117,Michael,Hill,15,Female,Grade 12,C107,75.7,N,Art Club,62.9,,Good
+S3118,Betty,Nguyen,18,Male,Grade 12,C112,83.3,True,Art Club,70.2,82.9,Good
+S3119,Thomas,Thompson,14,Female,Grade 9,C110,60.9,N,Debate,69.2,77.0,Good
+S3120,Patricia,Jackson,18,Female,Grade 12,C105,78.1,N,Sports,62.2,90.8,Excellent
+S3121,Susan,Harris,18,Male,Grade 11,C109,61.3,N,None,87.2,95.9,Excellent
+S3122,Ashley,Taylor,14,Male,Grade 10,C110,95.8,Y,Robotics,65.1,64.6,Average
+S3123,James,Lee,17,Male,Grade 10,C105,63.6,True,Debate,61.8,75.4,Good
+S3124,Linda,Allen,15,Female,Grade 11,C101,91.9,Y,Debate,76.2,60.3,Average
+S3125,Donald,Rodriguez,15,Female,Grade 10,C108,77.3,N,Music,98.3,61.7,Average
+S3126,Joshua,Lewis,15,Male,Grade 11,C107,61.6,N,Art Club,76.1,,Needs Improvement
+S3127,Steven,Harris,14,Female,Grade 11,C111,62.9,N,Music,78.5,94.7,Excellent
+S3128,Mark,Lee,17,Female,Grade 11,C112,92.9,N,Debate,56.8,85.2,Good
+S3129,Christopher,Hill,15,Male,Grade 12,C105,92.1,False,Debate,69.9,91.7,Excellent
+S3130,Robert,Thompson,17,Female,Grade 12,C105,81.1,False,Debate,87.2,58.7,Needs Improvement
+S3131,Robert,Anderson,18,Female,Grade 9,C108,77.3,N,Sports,56.9,62.3,Average
+S3132,Kimberly,Green,17,Male,Grade 10,C108,87.2,N,None,58.2,56.4,Needs Improvement
+S3133,Elizabeth,Brown,17,Female,Grade 11,C106,80.2,N,None,78.9,78.1,Good
+S3134,Jennifer,Hill,16,Female,Grade 11,C103,71.1,N,Robotics,81.1,96.1,Excellent
+S3135,Robert,Hall,14,Male,Grade 11,C109,85.3,False,None,71.4,78.1,Good
+S3136,Jennifer,Robinson,14,Male,Grade 12,C101,83.2,False,None,84.2,59.3,Needs Improvement
+S3137,Karen,Flores,14,Male,Grade 11,C107,90.9,True,Art Club,60.8,98.6,Excellent
+S3138,Daniel,Garcia,17,Male,Grade 10,C112,77.2,N,Robotics,65.9,82.8,Good
+S3139,Barbara,Thomas,15,Male,Grade 12,C108,79.0,False,Debate,92.1,,Excellent
+S3140,Donna,Anderson,15,Female,Grade 11,C103,85.6,N,Art Club,64.9,63.1,Average
+S3141,James,Flores,17,Female,Grade 10,C108,98.6,True,Debate,55.2,97.8,Excellent
+S3142,Daniel,Walker,16,Female,Grade 11,C101,65.3,N,Art Club,61.3,97.3,Excellent
+S3143,Richard,Martinez,17,Male,Grade 10,C104,87.7,N,Robotics,91.9,97.5,Excellent
+S3144,Daniel,Walker,16,Female,Grade 9,C105,96.7,N,Art Club,81.4,97.3,Excellent
+S3145,James,Walker,14,Female,Grade 11,C103,90.1,False,Robotics,59.0,68.0,Average
+S3146,Daniel,White,15,Female,Grade 10,C101,95.1,True,None,69.0,94.1,Excellent
+S3147,Robert,Martin,17,Male,Grade 11,C109,87.8,False,Sports,72.1,75.2,Good
+S3148,Charles,Thompson,17,Male,Grade 10,C109,75.2,False,Robotics,93.0,78.4,Good
+S3149,Lisa,Lewis,18,Female,Grade 10,C112,90.6,Y,Debate,90.8,87.3,Good
+S3150,Charles,Wright,16,Male,Grade 12,C106,,True,Music,57.7,97.0,Excellent
+S3151,Joseph,Hill,17,Female,Grade 9,C112,81.6,N,Sports,68.7,82.5,Good
+S3152,Thomas,Lee,14,Female,Grade 11,C107,67.3,Y,Robotics,78.1,86.9,Good
+S3153,Matthew,Nguyen,16,Male,Grade 10,C103,64.5,N,Sports,55.1,83.7,Good
+S3154,Michelle,Flores,18,Female,Grade 10,C104,90.8,True,None,79.5,66.5,Average
+S3155,Sandra,Green,16,Female,Grade 9,C105,66.0,False,Sports,73.7,61.9,Average
+S3156,Robert,Martin,17,Male,Grade 9,C106,68.2,False,Robotics,83.1,66.6,Average
+S3157,William,Martinez,17,Female,Grade 12,C108,88.7,False,Debate,85.5,99.6,Excellent
+S3158,Michael,Nguyen,17,Female,Grade 11,C108,83.8,True,None,72.7,71.5,Average
+S3159,Lisa,Jackson,17,Female,Grade 10,C103,69.3,Y,Sports,78.8,94.6,Excellent
+S3160,Lisa,Lee,16,Male,Grade 12,C109,99.8,Y,Music,74.6,70.0,Average
+S3161,Linda,Hill,17,Male,Grade 10,C103,92.9,True,Sports,55.1,68.5,Average
+S3162,Nancy,White,15,Male,Grade 9,C102,86.9,False,Robotics,59.1,,Average
+S3163,Susan,Nguyen,15,Female,Grade 10,C103,64.7,True,Art Club,65.0,70.4,Average
+S3164,Elizabeth,Anderson,18,Female,Grade 10,C111,97.7,True,None,93.4,62.3,Average
+S3165,Mary,Anderson,14,Female,Grade 10,C109,85.1,Y,Sports,84.7,79.0,Good
+S3166,Barbara,Harris,14,Male,Grade 12,C110,68.9,True,None,97.1,80.8,Good
+S3167,John,Rodriguez,17,Female,Grade 9,C108,84.3,N,Robotics,88.7,62.9,Average
+S3168,Joseph,Hall,14,Female,Grade 12,C111,80.2,True,Sports,65.2,58.6,Needs Improvement
+S3169,Donald,Hill,17,Female,Grade 9,C107,75.5,N,None,79.8,63.6,Average
+S3170,Mark,Brown,14,Female,Grade 10,C110,91.3,True,Music,66.7,63.0,Average
+S3171,Sarah,Hall,18,Female,Grade 12,C103,86.2,Y,Debate,92.3,87.6,Good
+S3172,Steven,Hall,17,Male,Grade 9,C108,60.4,False,Debate,73.3,76.7,Good
+S3173,Mark,Flores,15,Female,Grade 11,C103,69.6,N,Debate,97.9,91.1,Excellent
+S3174,Paul,Wright,14,Female,Grade 12,C102,79.5,Y,None,61.6,69.6,Average
+S3175,Thomas,Garcia,15,Female,Grade 9,C109,98.2,True,Sports,60.9,59.6,Needs Improvement
+S3176,Jennifer,Robinson,14,Female,Grade 10,C106,70.1,True,Robotics,89.4,92.1,Excellent
+S3177,Emily,Lee,16,Male,Grade 12,C111,64.2,Y,None,98.5,74.9,Average
+S3178,Dorothy,Hill,14,Female,Grade 11,C110,61.4,Y,Sports,77.4,72.4,Average
+S3179,George,Lewis,15,Male,Grade 12,C106,82.0,False,Sports,91.5,58.1,Needs Improvement
+S3180,Daniel,Hill,18,Female,Grade 9,C104,64.9,Y,Robotics,82.1,89.9,Good
+S3181,Joseph,Torres,17,Male,Grade 11,C104,64.6,True,Music,76.4,96.4,Excellent
+S3182,Sarah,King,16,Female,Grade 11,C105,77.6,True,Music,82.0,97.4,Excellent
+S3183,Elizabeth,Walker,17,Male,Grade 10,C106,95.2,True,Sports,66.4,79.5,Good
+S3184,Kimberly,Jackson,17,Female,Grade 12,C101,99.4,Y,Music,96.2,56.9,Needs Improvement
+S3185,Lisa,Martin,16,Male,Grade 9,C106,90.3,False,Music,87.7,82.5,Good
+S3186,Michelle,Johnson,14,Female,Grade 12,C112,60.4,N,Debate,65.9,87.7,Good
+S3187,Joshua,Clark,17,Female,Grade 10,C105,89.3,True,Art Club,82.1,63.5,Average
+S3188,Dorothy,Taylor,16,Female,Grade 11,C103,68.1,True,Music,97.2,71.6,Average
+S3189,Betty,Hall,14,Male,Grade 10,C109,85.7,Y,Music,89.3,64.8,Average
+S3190,William,Scott,16,Female,Grade 11,C101,,True,Sports,72.1,73.1,Average
+S3191,Ashley,Wright,17,Male,Grade 10,C101,87.1,N,Robotics,90.4,67.1,Average
+S3192,Joseph,Lewis,18,Female,Grade 9,C108,93.0,N,None,77.9,71.8,Average
+S3193,Robert,Robinson,14,Female,Grade 9,C108,99.9,Y,Robotics,96.1,83.9,Good
+S3194,Dorothy,Walker,17,Female,Grade 11,C102,98.0,True,Debate,63.9,80.4,Good
+S3195,Mary,Thompson,15,Female,Grade 11,C104,,True,Debate,96.4,66.7,Average
+S3196,Michael,White,17,Female,Grade 9,C111,65.3,N,Art Club,58.5,87.8,Good
+S3197,Nancy,White,16,Male,Grade 9,C105,65.3,True,Robotics,72.5,96.5,Excellent
+S3198,Steven,Jackson,16,Female,Grade 10,C107,96.3,False,Sports,66.0,67.2,Average
+S3199,Elizabeth,Harris,15,Male,Grade 10,C107,84.8,True,Music,79.7,70.6,Average
+S3200,Ashley,Clark,18,Female,Grade 11,C111,97.5,Y,Music,57.3,73.8,Average
+S3201,Mark,Brown,17,Female,Grade 11,C107,72.3,Y,Robotics,96.7,98.5,Excellent
+S3202,Patricia,Garcia,18,Male,Grade 11,C108,81.8,N,Debate,98.1,65.2,Average
+S3203,Robert,Johnson,16,Female,Grade 9,C108,93.9,True,Robotics,73.9,61.3,Average
+S3204,Joshua,Lewis,17,Female,Grade 9,C101,64.5,N,Robotics,70.7,99.0,Excellent
+S3205,Richard,Thompson,18,Female,Grade 10,C111,65.1,True,Debate,84.0,62.3,Average
+S3206,Michael,Torres,16,Male,Grade 10,C105,79.9,True,Music,59.6,84.6,Good
+S3207,Mark,Clark,18,Male,Grade 11,C106,71.1,Y,Art Club,68.7,83.9,Good
+S3208,Matthew,Robinson,16,Male,Grade 11,C112,71.1,True,Art Club,98.3,61.3,Average
+S3209,Michael,Lee,17,Female,Grade 11,C112,98.7,False,Art Club,92.7,60.3,Average
+S3210,Jennifer,Walker,15,Female,Grade 11,C110,77.1,N,Music,62.1,55.6,Needs Improvement
+S3211,Joshua,King,14,Female,Grade 12,C111,98.9,Y,Music,69.8,68.3,Average
+S3212,Kimberly,Brown,17,Female,Grade 9,C110,78.4,Y,Art Club,70.7,77.2,Good
+S3213,Barbara,Jackson,16,Female,Grade 10,C104,89.6,False,Music,63.4,82.6,Good
+S3214,Elizabeth,Brown,16,Male,Grade 9,C108,89.6,Y,Robotics,59.7,69.2,Average
+S3215,William,Hall,17,Male,Grade 10,C105,68.6,False,None,70.9,58.1,Needs Improvement
+S3216,Michelle,Torres,15,Female,Grade 9,C102,62.4,N,Art Club,94.5,84.3,Good
+S3217,Jessica,Clark,18,Female,Grade 12,C103,76.5,False,Robotics,90.3,76.6,Good
+S3218,Jessica,Martin,17,Male,Grade 11,C104,93.0,N,Debate,85.8,92.8,Excellent
+S3219,Charles,Scott,17,Female,Grade 10,C110,61.8,False,Robotics,80.0,67.8,Average
+S3220,William,Hill,16,Male,Grade 12,C112,,Y,Robotics,93.6,69.9,Average
+S3221,Michael,King,18,Male,Grade 11,C111,83.3,True,Music,98.8,93.5,Excellent
+S3222,Sarah,Clark,18,Male,Grade 12,C102,61.3,True,Music,93.2,57.9,Needs Improvement
+S3223,Mark,Flores,16,Male,Grade 12,C105,77.7,True,Debate,81.7,83.4,Good
+S3224,Steven,Garcia,15,Female,Grade 9,C101,79.5,Y,Music,83.7,97.8,Excellent
+S3225,Mary,Thompson,14,Female,Grade 10,C104,78.9,False,Sports,57.0,61.3,Average
+S3226,Charles,Green,17,Male,Grade 12,C107,77.9,N,Robotics,75.9,81.6,Good
+S3227,James,Flores,14,Male,Grade 11,C112,77.5,False,Music,64.6,72.9,Average
+S3228,Emily,Wright,18,Female,Grade 9,C102,95.2,Y,Music,80.3,56.3,Needs Improvement
+S3229,Karen,Taylor,14,Male,Grade 12,C107,87.0,N,Sports,68.1,87.3,Good
+S3230,Linda,Nguyen,17,Male,Grade 10,C102,84.2,False,Art Club,85.2,60.2,Average
+S3231,Dorothy,Smith,18,Female,Grade 10,C108,63.2,N,Music,70.6,97.4,Excellent
+S3232,Jennifer,Lewis,16,Male,Grade 9,C104,84.5,N,Debate,93.4,87.6,Good
+S3233,Robert,Allen,17,Female,Grade 11,C104,71.8,True,Art Club,76.4,81.0,Good
+S3234,John,Garcia,15,Male,Grade 11,C103,94.1,False,Sports,72.8,,Needs Improvement
+S3235,Daniel,Lee,16,Male,Grade 12,C112,77.2,N,None,69.0,81.2,Good
+S3236,Barbara,Torres,15,Male,Grade 12,C105,65.7,True,Art Club,94.2,70.6,Average
+S3237,Richard,Johnson,15,Male,Grade 11,C108,64.1,Y,Robotics,92.3,78.9,Good
+S3238,Betty,Nguyen,18,Female,Grade 11,C103,61.1,True,None,77.2,98.4,Excellent
+S3239,Richard,Martin,16,Male,Grade 11,C112,65.2,Y,Sports,91.8,,Average
+S3240,Lisa,Robinson,17,Female,Grade 12,C108,71.5,Y,Music,97.3,72.5,Average
+S3241,Ashley,King,17,Female,Grade 11,C103,93.3,True,None,74.4,68.6,Average
+S3242,Dorothy,Brown,17,Male,Grade 11,C102,81.8,Y,Sports,62.3,81.2,Good
+S3243,Jennifer,Thompson,16,Female,Grade 12,C106,91.7,N,Music,75.3,87.9,Good
+S3244,Mark,Garcia,17,Male,Grade 11,C109,74.1,N,Art Club,75.2,,Needs Improvement
+S3245,Patricia,Brown,17,Female,Grade 10,C103,98.0,True,Music,77.6,59.2,Needs Improvement
+S3246,Joshua,Young,17,Male,Grade 10,C102,,True,Music,93.1,99.1,Excellent
+S3247,Lisa,Garcia,17,Male,Grade 10,C112,93.9,N,Art Club,94.3,57.8,Needs Improvement
+S3248,Lisa,Clark,14,Male,Grade 11,C104,87.7,N,Art Club,60.9,68.5,Average
+S3249,Sarah,White,14,Male,Grade 10,C107,99.8,N,Robotics,59.0,,Needs Improvement
+S3250,Matthew,Green,18,Male,Grade 11,C112,86.3,Y,None,88.7,93.1,Excellent
+S3251,Mark,Jackson,18,Female,Grade 12,C101,72.2,False,Sports,79.2,83.4,Good
+S3252,William,Hill,14,Female,Grade 10,C107,65.8,N,Sports,86.2,85.0,Good
+S3253,Christopher,Young,16,Male,Grade 11,C104,79.1,Y,Music,64.9,83.8,Good
+S3254,Barbara,Torres,16,Male,Grade 9,C109,78.0,False,Music,80.8,83.1,Good
+S3255,Jessica,Torres,17,Male,Grade 11,C101,82.5,Y,Debate,60.3,96.3,Excellent
+S3256,Emily,Anderson,18,Male,Grade 9,C110,,Y,Debate,63.3,90.2,Excellent
+S3257,Donald,Lewis,17,Female,Grade 9,C103,72.7,False,Art Club,59.5,71.2,Average
+S3258,John,Clark,17,Female,Grade 10,C108,75.1,False,Music,97.4,59.0,Needs Improvement
+S3259,Dorothy,Lewis,14,Male,Grade 10,C105,88.5,Y,Music,84.3,98.5,Excellent
+S3260,David,Thompson,15,Female,Grade 11,C102,85.8,True,Art Club,57.1,71.2,Average
+S3261,Richard,Allen,18,Female,Grade 10,C111,67.4,Y,Robotics,79.3,73.7,Average
+S3262,Kenneth,Brown,18,Male,Grade 10,C112,84.3,False,None,68.0,61.1,Average
+S3263,Michelle,Wright,18,Female,Grade 9,C105,83.2,True,Sports,58.8,56.9,Needs Improvement
+S3264,Robert,Allen,18,Female,Grade 10,C103,75.2,N,Robotics,69.8,55.9,Needs Improvement
+S3265,Mary,Rodriguez,18,Female,Grade 11,C105,60.4,N,Music,75.4,98.4,Excellent
+S3266,Betty,Martin,17,Male,Grade 9,C105,65.0,False,Debate,55.7,89.7,Good
+S3267,Paul,Rodriguez,17,Male,Grade 11,C104,73.9,False,Art Club,71.4,55.1,Needs Improvement
+S3268,Christopher,Wright,16,Female,Grade 10,C112,91.3,Y,Robotics,89.3,75.6,Good
+S3269,Emily,Taylor,16,Male,Grade 12,C112,78.9,True,Art Club,57.6,85.2,Good
+S3270,Mark,White,15,Male,Grade 9,C101,63.0,Y,Debate,71.1,65.1,Average
+S3271,Michelle,Robinson,15,Male,Grade 11,C106,99.3,Y,Music,78.2,,Excellent
+S3272,David,Rodriguez,18,Female,Grade 12,C102,88.3,Y,Debate,57.7,61.6,Average
+S3273,Mary,Brown,17,Female,Grade 10,C107,69.7,False,Robotics,77.0,85.6,Good
+S3274,Daniel,Johnson,14,Female,Grade 12,C104,61.8,N,Art Club,62.3,75.0,Good
+S3275,Kenneth,Smith,14,Female,Grade 10,C109,86.4,Y,None,59.8,83.6,Good
+S3276,Lisa,Scott,17,Female,Grade 9,C111,62.9,N,Sports,82.4,99.2,Excellent
+S3277,George,Lee,15,Female,Grade 11,C109,66.5,True,Debate,76.0,87.3,Good
+S3278,Steven,Clark,18,Female,Grade 9,C110,60.4,False,Sports,70.7,96.7,Excellent
+S3279,Betty,Garcia,16,Female,Grade 10,C107,61.2,False,Robotics,76.2,84.8,Good
+S3280,Steven,Martinez,18,Male,Grade 9,C111,80.5,True,Music,76.2,83.6,Good
+S3281,Nancy,Torres,17,Female,Grade 10,C106,99.7,False,Art Club,72.0,80.8,Good
+S3282,Michelle,Thompson,15,Female,Grade 11,C108,93.6,Y,Robotics,88.1,65.3,Average
+S3283,Steven,Lee,17,Female,Grade 12,C103,77.5,True,Art Club,80.5,78.3,Good
+S3284,Nancy,Young,14,Female,Grade 11,C104,92.9,True,Robotics,94.1,79.5,Good
+S3285,Donald,Harris,18,Male,Grade 9,C111,95.2,N,Music,75.2,59.3,Needs Improvement
+S3286,Kimberly,Allen,18,Female,Grade 10,C106,81.6,False,Sports,67.4,74.1,Average
+S3287,George,King,14,Male,Grade 9,C106,69.0,N,Art Club,68.4,68.7,Average
+S3288,Paul,Anderson,17,Male,Grade 12,C102,93.9,N,None,73.6,68.6,Average
+S3289,Patricia,King,15,Male,Grade 11,C112,81.7,N,Robotics,61.6,72.1,Average
+S3290,Matthew,Thompson,15,Female,Grade 11,C105,70.6,Y,None,81.5,68.3,Average
+S3291,Thomas,Hall,17,Male,Grade 10,C102,78.0,Y,Robotics,62.0,63.1,Average
+S3292,Karen,White,16,Female,Grade 10,C104,61.2,N,Art Club,57.3,61.4,Average
+S3293,Donald,Garcia,18,Female,Grade 11,C102,97.9,True,Robotics,76.8,72.1,Average
+S3294,Kenneth,Martinez,17,Female,Grade 10,C109,84.6,Y,Sports,92.1,59.4,Needs Improvement
+S3295,Charles,King,14,Female,Grade 12,C102,88.7,Y,None,93.0,63.1,Average
+S3296,Donald,Jackson,15,Female,Grade 11,C101,92.7,False,Sports,77.1,58.2,Needs Improvement
+S3297,Michelle,Wright,18,Male,Grade 10,C104,60.8,True,None,72.2,63.6,Average
+S3298,Kimberly,White,15,Male,Grade 9,C110,71.4,N,Art Club,74.0,85.8,Good
+S3299,Donald,Taylor,15,Male,Grade 10,C106,64.6,N,None,89.4,90.3,Excellent
+S3300,Donald,Rodriguez,15,Female,Grade 11,C105,80.7,Y,None,62.9,98.7,Excellent
+S3301,Patricia,Green,14,Male,Grade 9,C107,63.0,False,Debate,81.6,78.3,Good
+S3302,Barbara,Green,14,Female,Grade 12,C104,62.7,False,None,73.9,86.3,Good
+S3303,Charles,Flores,14,Male,Grade 11,C111,87.0,True,Art Club,86.1,82.5,Good
+S3304,Charles,Clark,18,Female,Grade 10,C108,84.5,N,Art Club,64.4,97.3,Excellent
+S3305,Richard,Torres,14,Female,Grade 10,C107,75.4,N,None,96.2,,Good
+S3306,Thomas,King,15,Male,Grade 11,C108,86.6,Y,Robotics,76.9,88.4,Good
+S3307,Richard,Thomas,18,Female,Grade 12,C112,77.5,Y,Sports,98.8,65.3,Average
+S3308,Betty,Young,14,Male,Grade 10,C106,96.5,N,Art Club,56.3,71.0,Average
+S3309,Jessica,Smith,16,Female,Grade 10,C107,86.9,N,Art Club,58.6,97.8,Excellent
+S3310,Nancy,Martin,18,Male,Grade 11,C112,70.1,Y,None,98.5,68.1,Average
+S3311,Jessica,Johnson,14,Female,Grade 11,C108,94.4,False,Debate,56.5,90.4,Excellent
+S3312,Steven,Green,16,Male,Grade 11,C111,76.8,Y,Robotics,77.0,90.3,Excellent
+S3313,Joseph,White,15,Female,Grade 10,C112,90.6,N,None,73.0,84.5,Good
+S3314,Joshua,Garcia,17,Female,Grade 10,C103,95.3,False,None,90.8,85.8,Good
+S3315,Joshua,Hill,14,Female,Grade 11,C110,70.2,True,Robotics,87.7,58.4,Needs Improvement
+S3316,Linda,Johnson,18,Male,Grade 10,C106,97.6,False,Art Club,93.6,59.6,Needs Improvement
+S3317,Kimberly,Clark,14,Male,Grade 12,C104,73.8,True,Robotics,75.3,73.7,Average
+S3318,Mark,Torres,14,Female,Grade 10,C111,94.5,N,Debate,78.4,90.5,Excellent
+S3319,George,Johnson,18,Female,Grade 11,C109,85.4,True,Debate,80.6,60.3,Average
+S3320,Thomas,Nguyen,14,Male,Grade 9,C102,76.6,True,Debate,88.2,94.2,Excellent
+S3321,Daniel,King,14,Male,Grade 9,C111,85.3,N,Sports,78.4,60.2,Average
+S3322,Charles,Robinson,15,Male,Grade 12,C104,68.2,Y,Debate,77.3,73.9,Average
+S3323,Mark,Hill,17,Female,Grade 9,C111,95.3,False,None,87.2,86.4,Good
+S3324,Daniel,Taylor,15,Female,Grade 10,C105,81.3,False,Sports,77.5,91.9,Excellent
+S3325,Mary,Martin,17,Female,Grade 12,C101,75.6,False,Music,78.8,98.6,Excellent
+S3326,Sandra,Garcia,15,Female,Grade 10,C103,69.3,True,Sports,96.5,56.9,Needs Improvement
+S3327,Paul,Hall,14,Male,Grade 10,C101,74.0,True,Sports,95.9,72.1,Average
+S3328,Joshua,Johnson,17,Male,Grade 10,C103,81.9,True,Debate,77.9,70.8,Average
+S3329,Mark,White,18,Male,Grade 9,C112,67.8,False,Robotics,94.2,88.7,Good
+S3330,Charles,White,18,Female,Grade 11,C110,90.3,False,Art Club,68.5,73.7,Average
+S3331,Elizabeth,Young,18,Male,Grade 12,C107,96.3,Y,Art Club,77.3,63.5,Average
+S3332,Patricia,Lee,18,Male,Grade 12,C107,82.0,N,Sports,78.5,,Good
+S3333,Daniel,Allen,17,Female,Grade 12,C111,,N,Music,98.3,90.4,Excellent
+S3334,Karen,Martinez,15,Female,Grade 10,C102,82.3,False,Art Club,56.7,85.0,Good
+S3335,Elizabeth,Torres,17,Male,Grade 12,C101,89.9,N,Robotics,90.8,86.8,Good
+S3336,Kimberly,Anderson,17,Male,Grade 11,C102,60.9,False,Art Club,70.9,90.3,Excellent
+S3337,Jennifer,Green,17,Female,Grade 9,C112,80.5,False,Sports,55.2,97.2,Excellent
+S3338,Sarah,Martinez,18,Male,Grade 9,C102,87.0,False,Robotics,61.1,81.0,Good
+S3339,Emily,Jackson,17,Male,Grade 11,C109,99.2,Y,Sports,83.6,91.2,Excellent
+S3340,Susan,Green,15,Male,Grade 12,C105,66.7,False,None,77.0,86.1,Good
+S3341,Joshua,King,15,Female,Grade 10,C105,83.2,Y,Art Club,74.9,97.7,Excellent
+S3342,Matthew,Clark,18,Female,Grade 11,C109,98.4,Y,Art Club,78.6,77.0,Good
+S3343,Steven,Flores,17,Female,Grade 9,C110,,N,Art Club,57.9,65.4,Average
+S3344,Susan,Garcia,16,Female,Grade 9,C102,95.4,False,None,63.7,88.2,Good
+S3345,Elizabeth,Smith,16,Female,Grade 11,C106,84.8,False,Music,96.4,89.9,Good
+S3346,Nancy,White,17,Male,Grade 12,C108,82.1,Y,Art Club,89.7,73.7,Average
+S3347,Ashley,Wright,17,Female,Grade 10,C107,90.4,Y,Music,97.6,74.8,Average
+S3348,William,Wright,18,Female,Grade 10,C111,87.0,True,Robotics,57.8,64.5,Average
+S3349,Robert,Nguyen,14,Male,Grade 9,C105,82.5,N,Music,90.4,61.2,Average
+S3350,Joseph,Brown,15,Male,Grade 10,C102,72.3,N,Art Club,91.2,57.6,Needs Improvement
+S3351,Patricia,Hall,18,Female,Grade 12,C110,68.0,True,Sports,57.0,60.7,Average
+S3352,Kenneth,Lee,17,Male,Grade 9,C106,82.4,Y,Robotics,85.2,84.6,Good
+S3353,Charles,Smith,18,Female,Grade 10,C105,67.9,True,Sports,96.9,62.9,Average
+S3354,Kimberly,Anderson,15,Male,Grade 11,C111,65.3,Y,Art Club,92.6,62.4,Average
+S3355,Betty,Brown,sixteen,Female,Grade 12,C107,91.9,False,None,71.2,58.9,Needs Improvement
+S3356,Joseph,Martin,14,Male,Grade 9,C109,70.5,N,Debate,55.0,,Excellent
+S3357,Matthew,Lee,17,Male,Grade 9,C112,68.0,False,Sports,67.9,65.7,Average
+S3358,Ashley,Hill,17,Female,Grade 9,C112,90.9,True,Music,85.9,82.7,Good
+S3359,Susan,Flores,18,Female,Grade 11,C112,90.5,True,Sports,57.0,,Good
+S3360,Sarah,Flores,18,Male,Grade 10,C106,,Y,Sports,91.9,62.2,Average
+S3361,Susan,Walker,15,Female,Grade 9,C112,84.3,Y,Music,67.4,62.8,Average
+S3362,George,White,18,Female,Grade 11,C106,94.3,N,None,91.7,96.7,Excellent
+S3363,William,Torres,14,Female,Grade 9,C111,73.8,True,Debate,56.3,98.3,Excellent
+S3364,Joseph,Nguyen,14,Female,Grade 12,C110,84.0,Y,Sports,77.3,70.8,Average
+S3365,Sarah,Torres,17,Female,Grade 10,C105,72.5,Y,Robotics,70.0,58.6,Needs Improvement
+S3366,Matthew,Robinson,15,Female,Grade 9,C107,66.6,Y,Music,65.6,87.0,Good
+S3367,John,Brown,16,Male,Grade 12,C104,90.2,False,None,80.4,95.7,Excellent
+S3368,Matthew,Thompson,16,Male,Grade 9,C108,76.1,True,Art Club,93.9,95.3,Excellent
+S3369,Mark,Garcia,16,Male,Grade 10,C103,73.7,True,Music,73.9,92.4,Excellent
+S3370,Dorothy,Clark,18,Female,Grade 9,C110,85.3,True,Sports,80.7,72.6,Average
+S3371,Daniel,Lee,14,Female,Grade 12,C111,86.3,True,Art Club,94.5,73.0,Average
+S3372,Paul,Martinez,14,Male,Grade 10,C111,78.6,N,Music,60.2,99.1,Excellent
+S3373,William,Harris,16,Female,Grade 12,C111,91.6,False,Sports,87.9,80.3,Good
+S3374,David,Robinson,16,Female,Grade 11,C101,61.1,N,Sports,78.0,64.8,Average
+S3375,Lisa,Harris,15,Female,Grade 10,C112,63.1,N,Sports,94.4,90.7,Excellent
+S3376,William,Martin,14,Female,Grade 11,C107,67.3,N,Art Club,61.1,80.9,Good
+S3377,Mark,Thompson,17,Male,Grade 11,C109,76.8,Y,Robotics,81.5,97.2,Excellent
+S3378,Richard,Rodriguez,16,Male,Grade 12,C108,93.8,Y,Art Club,64.9,65.8,Average
+S3379,Ashley,Walker,15,Female,Grade 12,C109,61.9,Y,Debate,69.1,74.7,Average
+S3380,Lisa,Taylor,18,Male,Grade 10,C108,62.8,True,None,72.4,63.2,Average
+S3381,Sandra,King,15,Female,Grade 11,C109,68.8,True,Debate,94.0,97.0,Excellent
+S3382,Ashley,Anderson,16,Male,Grade 11,C101,87.1,False,None,73.9,87.9,Good
+S3383,Dorothy,Torres,17,Male,Grade 12,C112,80.0,N,Robotics,74.1,66.2,Average
+S3384,Betty,Lee,18,Female,Grade 9,C112,87.9,Y,None,69.3,65.5,Average
+S3385,Kenneth,Hall,14,Male,Grade 10,C111,84.8,Y,Music,75.0,90.1,Excellent
+S3386,Michelle,Johnson,18,Female,Grade 11,C104,95.5,N,Sports,73.5,77.4,Good
+S3387,James,Taylor,16,Male,Grade 10,C103,87.6,N,Art Club,70.0,91.2,Excellent
+S3388,Betty,Clark,18,Male,Grade 11,C105,99.0,True,Debate,61.0,65.4,Average
+S3389,Michael,Martin,17,Male,Grade 9,C104,61.1,False,Art Club,80.7,55.5,Needs Improvement
+S3390,Karen,Thompson,17,Male,Grade 12,C105,82.6,Y,Debate,88.1,60.9,Average
+S3391,Michael,Clark,17,Female,Grade 9,C103,,Y,Sports,67.6,67.6,Average
+S3392,Linda,Smith,16,Male,Grade 10,C108,68.3,False,Robotics,68.0,96.0,Excellent
+S3393,Barbara,Lee,15,Female,Grade 12,C103,73.5,N,Music,90.3,66.1,Average
+S3394,Betty,Allen,15,Male,Grade 12,C102,85.9,N,Sports,93.5,90.6,Excellent
+S3395,Michelle,Flores,15,Female,Grade 12,C106,61.4,N,Sports,98.5,56.4,Needs Improvement
+S3396,Susan,Jackson,16,Male,Grade 9,C111,85.5,False,Art Club,98.3,89.6,Good
+S3397,Christopher,Jackson,17,Male,Grade 11,C106,92.9,N,Robotics,79.5,90.1,Excellent
+S3398,Christopher,Hall,17,Female,Grade 9,C108,70.1,Y,Art Club,93.1,59.6,Needs Improvement
+S3399,Sandra,Hall,15,Female,Grade 9,C101,95.6,False,Art Club,96.5,89.5,Good
+S3400,Linda,White,16,Male,Grade 10,C107,73.0,Y,None,84.1,84.4,Good
+S3401,Elizabeth,Lewis,17,Female,Grade 10,C108,79.1,N,Debate,95.9,69.9,Average
+S3402,Barbara,Rodriguez,18,Male,Grade 10,C106,89.0,N,Art Club,76.7,83.5,Good
+S3403,William,Thomas,16,Female,Grade 9,C103,84.0,Y,Sports,70.0,96.3,Excellent
+S3404,Ashley,Anderson,15,Female,Grade 12,C103,,N,None,84.9,97.6,Excellent
+S3405,Ashley,Robinson,17,Female,Grade 10,C102,93.5,True,Robotics,60.6,,Average
+S3406,Mary,Torres,15,Female,Grade 9,C108,85.8,Y,Music,67.7,68.4,Average
+S3407,Kenneth,Martin,15,Female,Grade 12,C102,80.6,True,Robotics,58.7,79.7,Good
+S3408,Linda,Harris,18,Female,Grade 9,C112,67.1,N,Robotics,98.4,75.0,Good
+S3409,Susan,Robinson,14,Male,Grade 11,C105,76.1,True,Debate,84.6,85.7,Good
+S3410,Thomas,Garcia,14,Female,Grade 9,C107,90.1,False,Music,93.4,77.5,Good
+S3411,Donna,King,16,Female,Grade 10,C107,69.0,False,Music,79.2,78.6,Good
+S3412,Susan,Torres,14,Female,Grade 11,C102,69.3,False,Art Club,83.1,91.9,Excellent
+S3413,Charles,Martin,18,Female,Grade 9,C107,92.4,False,Debate,80.7,87.9,Good
+S3414,Patricia,Harris,15,Male,Grade 10,C106,81.2,False,None,87.2,96.6,Excellent
+S3415,Christopher,Nguyen,15,Female,Grade 12,C102,78.2,False,Robotics,73.1,97.1,Excellent
+S3416,Sarah,Allen,17,Female,Grade 12,C104,,True,None,57.7,77.5,Good
+S3417,Jennifer,Martinez,18,Female,Grade 11,C111,78.3,N,Debate,72.5,75.5,Good
+S3418,Christopher,Walker,14,Male,Grade 12,C103,84.1,Y,Sports,80.6,73.1,Average
+S3419,Kenneth,Martinez,15,Female,Grade 10,C109,62.3,N,Art Club,79.3,,Good
+S3420,Christopher,Nguyen,16,Female,Grade 10,C106,83.7,N,Art Club,61.5,62.7,Average
+S3421,Patricia,Johnson,14,Female,Grade 9,C109,,True,Music,58.5,76.5,Good
+S3422,Mark,Clark,14,Female,Grade 10,C106,98.8,False,None,62.8,87.5,Good
+S3423,Karen,Thomas,16,Male,Grade 11,C109,79.3,Y,Sports,90.6,97.8,Excellent
+S3424,Lisa,Young,15,Male,Grade 12,C112,77.6,Y,None,83.3,72.1,Average
+S3425,Joseph,Robinson,14,Male,Grade 9,C108,61.9,False,Debate,91.1,92.2,Excellent
+S3426,John,Anderson,18,Male,Grade 12,C110,91.4,True,Sports,81.3,73.6,Average
+S3427,Nancy,Nguyen,14,Female,Grade 10,C104,71.3,N,Sports,91.8,79.4,Good
+S3428,Joseph,Martinez,14,Male,Grade 9,C101,80.5,Y,Art Club,76.3,72.2,Average
+S3429,Karen,Anderson,17,Male,Grade 10,C101,82.6,True,Robotics,93.6,80.1,Good
+S3430,George,Smith,18,Male,Grade 12,C103,97.8,Y,None,92.1,68.3,Average
+S3431,Susan,Allen,15,Female,Grade 12,C107,99.6,False,Sports,85.1,97.7,Excellent
+S3432,Michael,Anderson,14,Female,Grade 11,C106,67.1,N,Art Club,59.3,98.1,Excellent
+S3433,William,White,16,Male,Grade 10,C104,91.9,Y,None,84.8,79.6,Good
+S3434,Mary,Hill,16,Male,Grade 10,C101,93.2,N,Art Club,64.9,73.0,Average
+S3435,Patricia,Torres,15,Female,Grade 12,C101,76.8,True,Music,80.4,92.5,Excellent
+S3436,Ashley,Allen,18,Male,Grade 9,C109,84.7,Y,Art Club,80.0,57.7,Needs Improvement
+S3437,William,Martinez,18,Female,Grade 11,C110,76.4,False,Debate,70.6,68.6,Average
+S3438,John,Smith,18,Male,Grade 9,C109,72.6,Y,Music,64.9,58.1,Needs Improvement
+S3439,Robert,Green,14,Female,Grade 11,C112,76.5,N,Debate,63.6,78.1,Good
+S3440,Betty,Brown,18,Male,Grade 11,C103,71.5,True,Art Club,55.3,77.3,Good
+S3441,Jennifer,Lewis,15,Male,Grade 11,C104,88.6,N,Robotics,70.9,60.6,Average
+S3442,John,Martin,17,Male,Grade 9,C108,83.9,False,Sports,90.6,74.3,Average
+S3443,Dorothy,Taylor,17,Male,Grade 11,C112,72.3,False,Sports,79.4,81.5,Good
+S3444,James,King,15,Male,Grade 10,C105,60.6,N,Art Club,70.9,82.2,Good
+S3445,Kimberly,Lewis,16,Male,Grade 11,C111,86.5,False,None,90.5,94.9,Excellent
+S3446,Sarah,Wright,14,Male,Grade 11,C112,68.8,N,Art Club,61.1,93.7,Excellent
+S3447,Kimberly,Brown,16,Male,Grade 12,C109,92.2,N,Robotics,58.7,72.4,Average
+S3448,Lisa,Johnson,17,Male,Grade 11,C106,67.3,False,Art Club,97.5,74.3,Average
+S3449,Michael,Flores,18,Male,Grade 10,C101,89.8,True,Sports,65.2,73.2,Average
+S3450,James,White,14,Female,Grade 11,C106,86.3,N,Music,83.2,56.2,Needs Improvement
+S3451,Barbara,Green,14,Female,Grade 10,C105,72.1,Y,Music,92.8,93.6,Excellent
+S3452,Paul,Green,16,Female,Grade 9,C111,80.0,Y,Sports,83.4,78.0,Good
+S3453,Steven,Young,14,Male,Grade 10,C107,86.5,True,Debate,88.1,91.5,Excellent
+S3454,John,Flores,17,Female,Grade 11,C102,66.8,Y,Sports,57.4,87.3,Good
+S3455,Emily,Clark,14,Female,Grade 10,C112,76.1,Y,Robotics,80.4,68.9,Average
+S3456,Karen,Wright,18,Male,Grade 12,C110,,Y,Robotics,95.6,61.4,Average
+S3457,Ashley,Scott,15,Male,Grade 10,C101,74.0,True,Debate,92.9,65.5,Average
+S3458,Mary,White,18,Female,Grade 9,C110,,Y,Sports,66.2,78.7,Good
+S3459,Matthew,Hill,16,Male,Grade 10,C110,75.9,False,Debate,75.9,75.3,Good
+S3460,Ashley,Johnson,15,Female,Grade 9,C110,86.9,True,Music,61.0,67.5,Average
+S3461,Kimberly,Robinson,16,Female,Grade 9,C108,70.4,True,Robotics,55.1,71.9,Average
+S3462,William,Allen,17,Male,Grade 9,C110,71.3,N,None,91.2,88.9,Good
+S3463,William,White,16,Female,Grade 11,C103,62.9,N,None,87.7,87.0,Good
+S3464,Christopher,Thompson,17,Female,Grade 10,C101,71.0,True,Music,82.5,58.7,Needs Improvement
+S3465,William,Scott,18,Male,Grade 10,C104,61.3,True,Music,78.5,56.7,Needs Improvement
+S3466,Mark,Clark,16,Female,Grade 9,C103,94.3,Y,Music,59.3,86.8,Good
+S3467,Mark,Martin,17,Female,Grade 9,C101,99.7,True,Music,96.9,61.2,Average
+S3468,Karen,Nguyen,18,Male,Grade 10,C101,92.3,Y,Music,87.4,79.2,Good
+S3469,Jennifer,King,15,Female,Grade 12,C111,73.1,True,None,55.9,89.2,Good
+S3470,Karen,Harris,15,Male,Grade 12,C102,65.6,N,Robotics,74.4,76.7,Good
+S3471,Emily,White,14,Female,Grade 9,C108,75.1,False,Sports,72.3,79.5,Good
+S3472,James,Johnson,15,Male,Grade 10,C112,76.4,N,Art Club,84.2,60.3,Average
+S3473,Jennifer,Walker,18,Female,Grade 9,C107,98.1,True,Sports,70.5,56.9,Needs Improvement
+S3474,Richard,Flores,17,Male,Grade 9,C108,75.3,Y,Sports,89.1,70.4,Average
+S3475,Robert,Clark,14,Male,Grade 12,C111,97.0,N,Debate,91.1,80.3,Good
+S3476,Mary,Martinez,17,Male,Grade 11,C105,65.3,False,Music,63.7,65.7,Average
+S3477,Sarah,Harris,17,Male,Grade 9,C105,78.8,False,None,90.2,63.1,Average
+S3478,Charles,Rodriguez,17,Female,Grade 9,C108,89.0,True,Art Club,70.9,58.9,Needs Improvement
+S3479,Matthew,Anderson,17,Male,Grade 10,C103,64.9,True,Debate,68.5,96.7,Excellent
+S3480,Daniel,Rodriguez,18,Female,Grade 11,C103,89.2,Y,Debate,68.3,82.0,Good
+S3481,Sarah,Thomas,14,Female,Grade 10,C108,70.3,True,Art Club,75.5,65.2,Average
+S3482,Patricia,Torres,17,Female,Grade 10,C105,79.6,False,Sports,70.5,95.9,Excellent
+S3483,Jessica,Young,15,Female,Grade 9,C104,99.4,False,Robotics,89.8,82.1,Good
+S3484,Matthew,Garcia,15,Male,Grade 10,C105,74.3,Y,None,82.9,,Average
+S3485,Daniel,Green,18,Male,Grade 11,C112,98.7,False,Robotics,86.5,98.1,Excellent
+S3486,Richard,Nguyen,17,Female,Grade 10,C103,68.2,N,Sports,55.0,56.8,Needs Improvement
+S3487,Jennifer,Johnson,15,Male,Grade 9,C112,84.0,N,Sports,87.2,89.6,Good
+S3488,Nancy,Green,18,Male,Grade 10,C101,83.9,Y,None,72.3,76.3,Good
+S3489,Barbara,Green,16,Male,Grade 9,C101,93.1,False,Robotics,87.6,90.5,Excellent
+S3490,Elizabeth,Scott,14,Female,Grade 9,C110,97.1,Y,None,87.5,68.8,Average
+S3491,Betty,Walker,14,Female,Grade 11,C104,91.7,Y,Music,90.7,76.7,Good
+S3492,David,Wright,17,Female,Grade 11,C103,65.0,False,None,60.3,87.5,Good
+S3493,Emily,King,18,Female,Grade 10,C110,65.5,False,Debate,87.0,91.6,Excellent
+S3494,Karen,Wright,16,Male,Grade 10,C101,97.3,True,None,95.6,77.6,Good
+S3495,George,Martinez,18,Male,Grade 10,C112,60.5,Y,Robotics,79.3,88.3,Good
+S3496,Joseph,Allen,18,Male,Grade 12,C111,79.3,False,Art Club,73.9,58.4,Needs Improvement
+S3497,John,White,16,Female,Grade 10,C105,61.5,True,None,57.3,92.5,Excellent
+S3498,Nancy,Clark,14,Female,Grade 10,C104,83.1,False,None,80.1,70.0,Average
+S3499,John,Garcia,16,Male,Grade 9,C109,80.7,True,Debate,67.5,78.3,Good
+S3500,Mark,Wright,17,Male,Grade 12,C109,97.0,N,Debate,57.5,76.9,Good
+S3501,Daniel,Lee,17,Male,Grade 12,C101,80.6,False,Music,59.4,55.7,Needs Improvement
+S3502,Mark,Brown,14,Female,Grade 9,C101,89.8,Y,Art Club,90.3,62.2,Average
+S3503,Michael,Brown,16,Male,Grade 12,C107,96.4,False,None,88.5,85.4,Good
+S3504,John,Lee,14,Female,Grade 12,C111,73.0,True,Debate,75.6,61.7,Average
+S3505,David,Hall,17,Male,Grade 9,C102,72.7,True,Art Club,55.4,72.2,Average
+S3506,Susan,Jackson,17,Female,Grade 11,C107,67.5,Y,Music,74.6,77.0,Good
+S3507,Michael,Johnson,17,Female,Grade 10,C103,99.9,True,Art Club,56.4,65.6,Average
+S3508,James,Robinson,14,Female,Grade 12,C101,88.7,False,Sports,98.0,,Average
+S3509,Mary,Jackson,15,Female,Grade 9,C112,86.1,N,Sports,67.1,81.7,Good
+S3510,Karen,Torres,17,Female,Grade 12,C112,76.0,Y,Sports,57.5,81.2,Good
+S3511,Kenneth,Martinez,15,Female,Grade 12,C102,83.4,Y,Music,66.3,97.0,Excellent
+S3512,Mark,Johnson,16,Female,Grade 12,C105,88.7,Y,Music,74.5,97.2,Excellent
+S3513,Sarah,Walker,14,Male,Grade 9,C105,62.8,True,None,79.2,73.8,Average
+S3514,Daniel,Torres,18,Female,Grade 10,C102,78.8,True,Debate,92.7,68.7,Average
+S3515,Kimberly,Robinson,18,Female,Grade 10,C106,63.0,N,Art Club,71.5,91.9,Excellent
+S3516,Jennifer,Martinez,14,Male,Grade 9,C101,74.1,N,Music,86.0,78.5,Good
+S3517,David,Jackson,15,Male,Grade 9,C103,65.4,N,Sports,75.6,82.3,Good
+S3518,Dorothy,Jackson,15,Female,Grade 11,C109,81.4,True,Sports,76.0,72.5,Average
+S3519,Matthew,Lee,17,Female,Grade 11,C112,62.0,N,Sports,79.1,95.1,Excellent
+S3520,Michelle,Walker,18,Female,Grade 9,C109,83.5,N,Music,91.1,72.7,Average
+S3521,Elizabeth,Walker,18,Male,Grade 9,C111,72.1,True,Art Club,97.5,97.5,Excellent
+S3522,Kenneth,Flores,16,Female,Grade 11,C109,63.7,N,None,62.1,98.2,Excellent
+S3523,Ashley,Walker,18,Female,Grade 9,C111,94.7,False,Art Club,97.1,65.7,Average
+S3524,Betty,Anderson,18,Female,Grade 9,C102,70.9,N,Art Club,59.6,68.3,Average
+S3525,Jessica,Johnson,17,Female,Grade 11,C111,73.9,True,Art Club,74.0,90.2,Excellent
+S3526,Karen,Martin,16,Female,Grade 9,C102,80.2,False,Music,66.5,55.4,Needs Improvement
+S3527,Karen,Wright,17,Female,Grade 11,C108,88.7,N,Robotics,71.4,59.2,Needs Improvement
+S3528,Jennifer,Jackson,17,Male,Grade 12,C105,73.9,N,Robotics,94.4,98.5,Excellent
+S3529,Lisa,Nguyen,14,Male,Grade 9,C111,89.9,Y,None,57.1,97.7,Excellent
+S3530,Steven,Martinez,15,Male,Grade 10,C101,85.6,False,Music,89.6,73.2,Average
+S3531,Patricia,White,14,Female,Grade 9,C111,71.1,Y,None,72.4,85.9,Good
+S3532,Richard,Harris,16,Female,Grade 12,C110,68.0,True,None,70.3,82.9,Good
+S3533,Mary,White,16,Female,Grade 12,C105,68.7,False,Debate,71.1,72.6,Average
+S3534,Donna,Lee,16,Female,Grade 10,C111,63.7,Y,None,87.9,55.6,Needs Improvement
+S3535,Jennifer,Martin,14,Female,Grade 9,C110,76.4,False,Robotics,69.5,86.2,Good
+S3536,Susan,Hill,15,Male,Grade 10,C108,94.1,Y,None,57.3,59.7,Needs Improvement
+S3537,Paul,Lewis,14,Male,Grade 12,C104,83.2,False,None,94.1,,Good
+S3538,Barbara,Hall,14,Male,Grade 11,C111,97.2,Y,None,60.5,84.4,Good
+S3539,Sarah,Robinson,17,Female,Grade 12,C104,64.2,Y,Music,89.1,91.4,Excellent
+S3540,Sandra,Martin,18,Female,Grade 9,C107,81.1,True,Robotics,56.5,83.8,Good
+S3541,Lisa,Lee,18,Female,Grade 11,C108,,True,Debate,66.8,96.0,Excellent
+S3542,John,Thompson,16,Female,Grade 11,C109,70.3,Y,None,61.0,66.7,Average
+S3543,Karen,Jackson,15,Male,Grade 9,C108,85.6,N,None,70.0,99.9,Excellent
+S3544,Christopher,Young,15,Male,Grade 12,C107,99.0,Y,Art Club,97.9,57.9,Needs Improvement
+S3545,Paul,Martinez,17,Male,Grade 10,C106,,Y,None,64.4,59.4,Needs Improvement
+S3546,Joseph,Young,18,Female,Grade 11,C101,72.5,Y,Music,78.1,58.0,Needs Improvement
+S3547,Emily,Thomas,16,Male,Grade 12,C104,72.3,False,None,57.5,70.4,Average
+S3548,Thomas,Wright,18,Male,Grade 11,C108,89.5,True,Music,77.0,80.8,Good
+S3549,Daniel,White,16,Female,Grade 11,C111,92.8,Y,Art Club,88.4,57.2,Needs Improvement
+S3550,Donna,Martin,17,Male,Grade 12,C104,94.8,True,None,63.3,73.1,Average
+S3551,Donna,Walker,18,Male,Grade 12,C102,71.4,False,Robotics,98.8,98.5,Excellent
+S3552,Linda,Hill,17,Female,Grade 12,C109,87.8,True,Music,68.5,89.2,Good
+S3553,William,Jackson,16,Female,Grade 12,C110,84.7,False,Art Club,89.4,86.6,Good
+S3554,Barbara,Scott,14,Female,Grade 11,C111,98.3,False,Art Club,56.5,81.1,Good
+S3555,Patricia,Smith,17,Female,Grade 10,C112,65.8,False,Robotics,88.4,77.5,Good
+S3556,David,Rodriguez,14,Male,Grade 12,C105,79.7,N,Debate,95.1,96.8,Excellent
+S3557,Dorothy,Rodriguez,17,Male,Grade 9,C105,,False,None,66.4,94.5,Excellent
+S3558,Lisa,Smith,16,Male,Grade 9,C103,67.6,True,None,77.9,76.1,Good
+S3559,Jessica,White,16,Female,Grade 10,C105,76.9,True,Debate,74.9,88.0,Good
+S3560,Steven,Walker,16,Male,Grade 9,C101,86.2,True,Art Club,78.6,85.5,Good
+S3561,Charles,Clark,18,Female,Grade 12,C108,77.0,False,Art Club,70.0,63.3,Average
+S3562,Ashley,Garcia,15,Male,Grade 12,C105,91.2,True,Music,95.0,72.2,Average
+S3563,Joseph,Wright,15,Male,Grade 9,C109,67.0,False,Sports,93.5,88.2,Good
+S3564,Lisa,King,14,Female,Grade 11,C110,74.0,True,Robotics,68.9,90.6,Excellent
+S3565,Patricia,Young,14,Male,Grade 9,C108,67.0,True,Debate,57.0,81.1,Good
+S3566,Mark,Martinez,14,Female,Grade 12,C107,98.6,False,Music,95.3,77.6,Good
+S3567,James,Martin,17,Male,Grade 11,C103,80.9,False,Debate,64.4,90.2,Excellent
+S3568,Michael,Lewis,18,Male,Grade 11,C112,96.2,True,Sports,61.1,57.4,Needs Improvement
+S3569,Ashley,Jackson,18,Male,Grade 11,C101,84.4,False,Art Club,98.3,71.2,Average
+S3570,Paul,Martin,15,Male,Grade 12,C104,92.6,False,None,74.0,90.8,Excellent
+S3571,Donald,Thompson,15,Male,Grade 9,C106,85.1,True,Sports,56.3,84.0,Good
+S3572,George,Young,17,Male,Grade 9,C109,76.3,True,None,88.5,61.5,Average
+S3573,Michael,Flores,16,Male,Grade 12,C106,77.7,Y,Art Club,87.2,65.5,Average
+S3574,Sandra,Johnson,14,Male,Grade 9,C103,83.9,Y,Art Club,87.5,56.3,Needs Improvement
+S3575,Christopher,Robinson,14,Male,Grade 9,C112,80.3,True,Music,74.4,,Average
+S3576,David,Thompson,sixteen,Female,Grade 11,C105,78.6,True,Art Club,65.8,96.2,Excellent
+S3577,Nancy,Thomas,14,Female,Grade 12,C101,64.0,N,Art Club,82.4,75.1,Good
+S3578,Matthew,King,17,Female,Grade 10,C111,65.0,True,Music,71.8,56.3,Needs Improvement
+S3579,Patricia,Hill,15,Male,Grade 12,C112,69.8,N,Robotics,86.6,90.0,Excellent
+S3580,Mark,Thomas,18,Female,Grade 11,C101,68.5,True,None,65.5,67.7,Average
+S3581,William,Rodriguez,17,Male,Grade 12,C104,76.3,N,Sports,98.1,84.3,Good
+S3582,John,Harris,16,Male,Grade 10,C104,92.4,Y,Robotics,72.6,97.6,Excellent
+S3583,Kimberly,King,18,Male,Grade 12,C109,68.7,False,Debate,78.8,98.6,Excellent
+S3584,Daniel,Young,17,Male,Grade 9,C111,70.9,True,None,72.6,99.2,Excellent
+S3585,David,Lewis,17,Female,Grade 10,C104,,True,Debate,55.6,79.4,Good
+S3586,Christopher,White,16,Female,Grade 9,C110,92.8,False,Robotics,78.6,93.7,Excellent
+S3587,Matthew,Martinez,15,Male,Grade 12,C108,70.1,N,Robotics,90.4,91.8,Excellent
+S3588,Mark,Brown,17,Female,Grade 11,C107,76.7,True,Debate,92.5,93.5,Excellent
+S3589,Mary,Taylor,17,Female,Grade 9,C106,69.3,True,Sports,83.1,65.6,Average
+S3590,Joshua,Hall,16,Male,Grade 12,C106,78.1,Y,Art Club,60.1,75.4,Good
+S3591,Patricia,Nguyen,15,Female,Grade 11,C104,81.2,N,None,80.7,90.9,Excellent
+S3592,Lisa,King,17,Male,Grade 9,C103,82.9,False,Sports,65.5,90.7,Excellent
+S3593,Nancy,Garcia,16,Female,Grade 9,C101,66.8,True,Music,75.3,68.8,Average
+S3594,Ashley,Anderson,17,Male,Grade 11,C109,75.1,False,Music,66.4,66.0,Average
+S3595,Linda,Green,17,Male,Grade 12,C103,79.6,False,None,67.6,87.5,Good
+S3596,Nancy,Taylor,17,Male,Grade 9,C112,71.3,N,Debate,66.8,78.4,Good
+S3597,Donna,Lewis,15,Female,Grade 9,C107,96.6,True,Robotics,76.7,75.4,Good
+S3598,Dorothy,Nguyen,18,Female,Grade 10,C102,93.5,False,None,93.1,82.1,Good
+S3599,William,Taylor,17,Female,Grade 12,C101,64.1,N,Robotics,73.1,97.0,Excellent
+S3600,Jessica,Harris,17,Female,Grade 11,C106,91.3,N,Music,62.4,78.1,Good
+S9315,Linda,Johnson ,18,Male,Grade 10,C106,97.6,False,Art Club,93.6,59.6,Needs Improvement
+S9344,Elizabeto,Smith,16,Female,Grade 11,C106,84.8,False,Music,96.4,89.9,Good
+S9456,Ashleo,Scott,15,Male,Grade 10,C101,74.0,True,Debate,92.9,65.5,Average
+S9324,Mare,Martin,17,Female,Grade 12,C101,75.6,False,Music,78.8,98.6,Excellent
+S9123,Lindo,Allen,15,Female,Grade 11,C101,91.9,Y,Debate,76.2,,Average
+S9128,Christophea,Hill,15,Male,Grade 12,C105,92.1,False,Debate,69.9,91.7,Excellent
+S9436,William,Martinez ,18,Female,Grade 11,C110,76.4,False,Debate,70.6,68.6,Average
+S9178,Georgo,Lewis,15,Male,Grade 12,C106,82.0,False,Sports,91.5,58.1,Needs Improvement
+S9387,Betty,Clark ,18,Male,Grade 11,C105,99.0,True,Debate,61.0,65.4,Average
+S9193,Dorotho,Walker,17,Female,Grade 11,C102,98.0,True,Debate,63.9,80.4,Good

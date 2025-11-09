@@ -1,0 +1,13 @@
+class_id,class_name,grade_level,room_number,teacher_in_charge,capacity
+C101,Grade 9 - A,Grade 9,R200,T101,32
+C102,Grade 9 - B,Grade 9,R201,T102,28
+C103,Grade 9 - C,Grade 9,R202,T103,22
+C104,Grade 10 - A,Grade 10,R203,T104,26
+C105,Grade 10 - B,Grade 10,R204,T105,30
+C106,Grade 10 - C,Grade 10,R205,T106,26
+C107,Grade 11 - A,Grade 11,R206,T107,35
+C108,Grade 11 - B,Grade 11,R207,T108,32
+C109,Grade 11 - C,Grade 11,R208,T109,34
+C110,Grade 12 - A,Grade 12,R209,T110,24
+C111,Grade 12 - B,Grade 12,R210,T111,28
+C112,Grade 12 - C,Grade 12,R211,T112,24
